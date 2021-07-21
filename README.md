@@ -1,8 +1,10 @@
 # carbrand
 This is a  car brand classification project using deep learning pretrained model Rasnet50. It can recognize ten brands, which is, audi mercedes ferrari lamborghini, porsche, ashton martin, bentley, jaguar, maserati,bmw.
 
-Step 1: clone the repo using the git command. \n
+Step 1: clone the repo using the git command.
+
 Step 2: execute the requirements.txt in the virtual environment. 
+
 step 3: run app.py file. Enjoy!
 
 
