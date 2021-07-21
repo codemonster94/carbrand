@@ -1,6 +1,9 @@
 # carbrand
-this is a simple clar brand classification project using deep learning. It can recognize four brands, which is, audi mercedes ferrari lamborghini.
+this is a simple car brand classification project using deep learning. It can recognize four brands, which is, audi mercedes ferrari lamborghini, porsche, ashton martin, bentley, jaguar, maserati,bmw.
 
+Step 1: clone the repo using the git command. 
+Step 2: execute the requirements.txt in the virtual environment. 
+step 3: run app.py file. Enjoy!
 
 
 If you face any error in course of running this project, please feel free to contact me 
